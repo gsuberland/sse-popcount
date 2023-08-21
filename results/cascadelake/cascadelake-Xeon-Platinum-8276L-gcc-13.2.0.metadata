@@ -1,0 +1,6 @@
+cpu=Cascade Lake Xeon Platinum 8276L @ 2.20 GHz
+cpu_url=https://ark.intel.com/content/www/us/en/ark/products/192475/intel-xeon-platinum-8276l-processor-38-5m-cache-2-20-ghz.html
+architecture=AVX512BW
+compiler=gcc 13.2.0 (MSYS2)
+runs=5
+
